@@ -4,6 +4,9 @@ Welcome to the Raspberry Pi RP2350 hacking challenge and bug bounty!
 
 Watch our quick explainer video:
 [![](assets/hacking-challenge-thumbnail-play.png)](https://hextree.io/rp2350-hacking-challenge)
+## Update Jan 1st 2025
+**The RP2350 Hacking Challenge has concluded.**  
+There have been some fantastic submissions! We'll announce winners and publish details on Jan 14th 2025.
 
 ## Update Sept 5th 2024
 No breaks have been reported yet.  
